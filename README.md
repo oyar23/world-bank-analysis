@@ -3,7 +3,6 @@ Análisis de la Economía de América Latina con la API del Banco Mundial
 Este proyecto es un análisis exploratorio de datos (EDA) centrado en indicadores económicos clave de países de América Latina. Utiliza la API del Banco Mundial (wbgapi) para consumir datos en tiempo real 
 y realizar visualizaciones para entender la evolución de la población, el PIB, las exportaciones y las importaciones a lo largo del tiempo.
 
-Claro, aquí tienes una plantilla de README.md que puedes usar para tu proyecto. Incluye una descripción, la estructura del proyecto, los requisitos y una explicación de los análisis y visualizaciones que realizaste. Solo tienes que copiar y pegar este contenido en un archivo llamado README.md en la raíz de tu repositorio.
 
 Análisis de la Economía de América Latina con la API del Banco Mundial
 
