@@ -1,16 +1,16 @@
 Análisis de la Economía de América Latina con la API del Banco Mundial
 
-Este proyecto es un análisis exploratorio de datos (EDA) centrado en indicadores económicos clave de países de América Latina. Utiliza la API del Banco Mundial (wbgapi) para consumir datos en tiempo real 
-y realizar visualizaciones para entender la evolución de la población, el PIB, las exportaciones y las importaciones a lo largo del tiempo.
+Este proyecto es un análisis exploratorio de datos (EDA) centrado en indicadores económicos clave de países de América Latina, mediante la biblioteca WBGAPI, la cual esta diseñada para interacuar con la API del Banco Mundial.
+    Se realizaron visualizaciones para entender la evolución de la población, el PIB, las exportaciones y las importaciones a lo largo del tiempo.
 
 
 Contenido del Repositorio
 
-    notebooks/: Contiene el EDA (EDA_WgbAPI.ipynb) donde se explora la API y se generan los gráficos.
+    notebooks/: Contiene (EDA_WgbAPI.ipynb) donde se explora la API y se generan los gráficos.
 
     data/: Esta carpeta se crea automáticamente y almacena los archivos CSV generados por el script de ETL.
 
-    etl_data.py: Un script que simula una pipeline de ETL (Extract, Transform, Load), descargando datos de la API del Banco Mundial, transformándolos y guardándolos como archivos CSV limpios.
+    etl_data.py: Un script ETL (Extract, Transform, Load), descargando datos de la API del Banco Mundial, transformándolos y guardándolos como archivos CSV limpios.
 
     requirements.txt: Lista de librerías necesarias para ejecutar el proyecto.
 
